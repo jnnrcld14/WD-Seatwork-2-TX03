@@ -14,7 +14,7 @@
 <!-- TODO: Make a short description -->
 <div align="center">
   Whether I grow up to be anonymous or a legend, this much I know that someday we'll meet again where there shall be no more pain.
-</div>
+
 
 <br />
 
@@ -22,7 +22,7 @@
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 
 ![](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fjnnrcld14%2FWD-Seatwork-2-TX03&s=40&c=00ff00&bg=00000000&no=1&ff=linebeam&tb=&ta=)
-<div align="center">
+
 </div>
 ---
 
