@@ -4,23 +4,23 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/jnnrcld14/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./workspaces/WD-Seatwork-2-TX03/assets/img/omithepoet.png" alt="omithepoet" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">WD-Omi's Poetry </h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Whether I grow up to be anonymous or a legend, this much I know that someday we'll meet again where there shall be no more pain.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fjnnrcld14%2FWD-Seatwork-2-TX03&s=40&c=00ff00&bg=00000000&no=1&ff=linebeam&tb=&ta=)
 
 ---
 
