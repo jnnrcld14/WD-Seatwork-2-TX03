@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/jnnrcld14/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./workspaces/WD-Seatwork-2-TX03/assets/img/omithepoet.png" alt="omithepoet" width="130" height="100">
+    <img src="./assets/img/omithepoet.png" alt="omithepoet" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">WD-Omi's Poetry </h3>
