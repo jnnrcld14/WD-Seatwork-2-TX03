@@ -9,13 +9,13 @@
     <img src="./assets/img/omithepoet.png" alt="omithepoet" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">WD-Omi's Poetry </h3>
+  <h3 align="center">WD-jnnrcld </h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
   Whether I grow up to be anonymous or a legend, this much I know that someday we'll meet again where there shall be no more pain.
 
-
+<a href="https://app.daily.dev/jnnrcld_14"><img src="https://api.daily.dev/devcards/v2/LUPWjwla9tWkfNsegLnj5.png?r=meq&type=wide" width="652" alt="Janna Ladia's Dev Card"/></a>
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
