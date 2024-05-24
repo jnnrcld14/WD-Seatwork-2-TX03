@@ -62,12 +62,16 @@
 A multi-page web resume where I communicate my qualifications and my brand—who I am and what makes me different to employers.
 
 Guiding Question:
+
 What is the project
-- To create a resume in a form of a website 
+  - To create a resume in a form of a website 
+
 What's the purpose
-- To give my potential employer a feel for your past experience and skills.- What are key components
+  - To give my potential employer a feel for your past experience and skills.- What are key components
+
 What technology used and how it is used
-- I developed and created web pages using HTML. Layout, color, and appearance are improved by CSS, and program embedding and web page content behavior are enhanced by JavaScript.
+  - I developed and created web pages using HTML. Layout, color, and appearance are improved by CSS, and program embedding and web page content behavior are enhanced by JavaScript.
+
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
