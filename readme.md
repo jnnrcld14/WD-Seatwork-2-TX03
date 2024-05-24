@@ -78,6 +78,7 @@ What technology used and how it is used
 - MultiPage Website (WORK IN PROGRESS)
 - Parallax transition
 - Transactional
+- Buttons
 
 ### Technology
 <!-- TODO: List of Technology Used -->
