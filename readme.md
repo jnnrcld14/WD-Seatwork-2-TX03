@@ -59,7 +59,7 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-A multi-page web resume where I communicate my qualifications and my brand—who I am and what makes me different to employers.
+A multi-page web resume where I communicate my qualifications and my brand or about who I am and what makes me different to employers.
 
 Guiding Question:
 
