@@ -55,6 +55,59 @@
 
 ---
 
+## Overview
+
+<!-- TODO: To be changed -->
+<!-- The following are just sample -->
+A multi-page web resume where I communicate my qualifications and my brand—who I am and what makes me different to employers.
+
+Guiding Question:
+What is the project
+- To create a resume in a form of a website 
+What's the purpose
+- To give my potential employer a feel for your past experience and skills.- What are key components
+What technology used and how it is used
+- I developed and created web pages using HTML. Layout, color, and appearance are improved by CSS, and program embedding and web page content behavior are enhanced by JavaScript.
+### Key Components
+<!-- TODO: List of Key Components -->
+<!-- The following are just sample -->
+- MultiPage Website (WORK IN PROGRESS)
+- Parallax transition
+- Transactional
+
+### Technology
+<!-- TODO: List of Technology Used -->
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+
+## Rules and Principles
+1. Always use ***WD-*** in the front of the Title of the Project for the Subject followed by your custom naming.
+2. Do not rename any .html files; always use 'index.html' as the filename.
+3. File Structure to follow
+
+```
+WD-ProjectName
+└─ assets
+|   └─ css
+|   |   └─ style.css
+|   └─ img
+|   |   └─ fileWith.jpeg/.jpg/.webp/.png
+|   └─ js
+|       └─ script.js
+└─ pages
+|  └─ pageName
+|     └─ assets
+|     |  └─ css
+|     |  |  └─ style.css
+|     |  └─ img
+|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
+|     |  └─ js
+|     |     └─ script.js
+|     └─ index.html
+└─ index.html
+└─ readme.md
+```
 
 ## Resources
 
