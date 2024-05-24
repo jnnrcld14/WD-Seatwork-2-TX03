@@ -1,93 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background: url('/Users/jannaladia/Documents/GitHub/WD-Seatwork-2-TX03/assets/img/bg.jpeg') no-repeat center center fixed;
-    background-size: cover;
-    margin: 0;
-    padding: 0;
 }
-
 .container {
     width: 80%;
     margin: 0 auto;
     padding: 20px;
 }
-
 header {
-    background: rgba(51, 51, 51, 0.8);
-    color: #fff;
+    background: linear-gradient(135deg, #13A465 0%, #2388CB 45%, #2A2F93 100%);
     padding: 10px 0;
 }
-
 header h1 {
     text-align: center;
     margin-bottom: 10px;
+    color: #fff;
 }
-
 header nav ul {
     display: flex;
     justify-content: center;
     list-style: none;
 }
-
 header nav ul li {
     margin: 0 15px;
 }
-
 header nav ul li a {
     color: #fff;
     text-decoration: none;
 }
-
 main {
     padding: 20px 0;
-    background: rgba(255, 255, 255, 0.8);
 }
-
 section {
     margin-bottom: 20px;
 }
-
 section h2 {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
-
-.job, .education {
+.education {
     margin-bottom: 15px;
 }
-
 .skills-list {
     list-style: none;
     display: flex;
     flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
 }
-
 .skills-list li {
     background: #f4f4f4;
     margin: 5px;
     padding: 10px;
     border-radius: 5px;
 }
-
-footer {
-    background: rgba(51, 51, 51, 0.8);
-    color: #fff;
+.button {
+    font-size: 16px;
+    line-height: 16px;
+    padding: 6px;
+    text-decoration: none;
+    text-transform: none;
+    transition-duration: 0.4s;
+    cursor: pointer;
     text-align: center;
-    padding: 10px 0;
-    margin-top: 20px;
 }
 
+.button1 {
+    width: 200px;
+}
+.button2 {
+    width: 200px;
+}
+.button3 {
+    width: 200px;
+}
+.button4 {
+    width: 200px;
+}
+.button5 {
+    width: 200px;
+}
+.button6 {
+    width: 200px;
+}
+.button7 {
+    width: 200px;
+}
+.button8 {
+    width: 200px;
+}
+footer {
+    text-align: center;
+    padding: 5px;
+    background: linear-gradient(135deg, #1C6EA4 0%, #4280CB 50%, #107523 100%);
+}
+footer p {
+    color: #fff;
+    margin-bottom: 10px;
+}
+footer nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    color: #fff;
+}
+footer nav ul li {
+    margin: 15px;
+    color: #fff;
+}
+footer nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
 @media (max-width: 768px) {
     .container {
         width: 90%;
     }
-
     header nav ul {
         flex-direction: column;
     }
-
     header nav ul li {
         margin: 10px 0;
     }
 }
-
