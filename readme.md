@@ -76,7 +76,6 @@ What technology used and how it is used
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website (WORK IN PROGRESS)
-- Parallax transition
 - Transactional
 - Buttons
 
